@@ -1,2 +1,2 @@
 # leaflet-challenge.
-In this project I sed HTML and Javascript
+In this project I used HTML and Javascript
